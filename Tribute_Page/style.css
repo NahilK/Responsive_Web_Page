@@ -1,0 +1,22 @@
+#main{
+  background-color:#E8E8E8;
+text-align:center;
+}
+#img-div{
+ background-color:white; 
+}
+img{
+max-width:100%;
+  height:auto;
+  margin:auto;
+}
+#subtitle{
+font-weight:bold;
+}
+.center{
+text-align:justify;
+padding: 0px 200px 15px 400px;
+}
+.lastlink{
+  padding: 0px 200px 15px 200px;
+}
